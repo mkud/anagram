@@ -14,4 +14,4 @@ Here is a couple of important hints to help you out:
 - The MD5 hash of the more difficult secret phrase is "23170acc097c24edb98fc5488ab033fe"
 - The MD5 hash of the hard secret phrase is "665e5bcb0c20062fe8abaaf4628bb154"
 
-Here is a list of english words, it should help you out.
+[Here is a list of english words](wordlist), it should help you out.
